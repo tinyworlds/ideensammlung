@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-12-31T18:47:18+01:00
+
+====== Leimstift Schnecke ======
+Created Samstag 31 Dezember 2016
+
+-> Leimstift/Klebeband Spender
+-> man bewegt Schnecke über Papier und sie hinterlässt eine "Schleimspur"

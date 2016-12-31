@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-12-31T19:04:34+01:00
+
+====== Über ======
+Created Samstag 31 Dezember 2016
+
+Sammlung von Ideen in deutscher Sprache
+Frei verwendbar unter den Bedingungen von CC-BY-NC 3.0 (Namensnennung, nicht kommerziell)

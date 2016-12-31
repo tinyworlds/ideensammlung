@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-12-31T18:53:41+01:00
+
+====== Abdruck auf Blatt ======
+Created Samstag 31 Dezember 2016
+
+-> licht-undurchlässige Schablone auf Blatt fixieren -> Blatt verfärbt sich an dieser Stelle, da Licht fehlt
+-> nimmt man Schablone wieder weg, bleibt der verfärbte Abdruck
